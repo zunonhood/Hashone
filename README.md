@@ -1,4 +1,4 @@
-# Hashone local frontend
+# Minerone local frontend
 
 Run with `python serve.py`, then open http://127.0.0.1:4173/#faq.
 
