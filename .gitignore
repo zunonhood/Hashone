@@ -1,0 +1,7 @@
+.chrome-*/
+__pycache__/
+*.log
+*.png
+*-error.txt
+*-dom.txt
+*.pre-redesign.*
